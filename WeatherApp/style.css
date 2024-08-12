@@ -92,3 +92,13 @@ body {
 .weather {
   display: none;
 }
+
+.error {
+  text-align: left;
+  margin-left: 10px;
+  font-size: 20px;
+  margin-top: 10px;
+  display: none;
+  color: rgba(249, 232, 1, 0.855);
+  text-shadow: black;
+}
